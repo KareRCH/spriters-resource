@@ -19,4 +19,6 @@ You can also search for the url using following command:
     
 where Heroes Of Might And Magic is a game name. The search results (name - partial URL) will be outputted in console
 (if any)
- 
+
+you need sync-request
+     npm install sync-request
